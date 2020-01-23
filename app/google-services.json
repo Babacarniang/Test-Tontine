@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956201038455",
+    "firebase_url": "https://testtontine.firebaseio.com",
+    "project_id": "testtontine",
+    "storage_bucket": "testtontine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956201038455:android:296336cd82833777338c72",
+        "android_client_info": {
+          "package_name": "com.example.testtontine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956201038455-kk3dm1l7b0pvmf2cah754jlqodmb8q2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testtontine",
+            "certificate_hash": "ce183549a82e109ea7b12ae97370cb5ac632447e"
+          }
+        },
+        {
+          "client_id": "956201038455-opvt1lcgfqq0erimfk9fc7p3l9so9pcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWk0XUGAtoHyt69syZHiiBSGSWUicZuF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956201038455-opvt1lcgfqq0erimfk9fc7p3l9so9pcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
